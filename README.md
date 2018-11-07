@@ -21,7 +21,7 @@ esto es para descargar todas las dependencias del proyecto.
 
 No olvides obtener tu API key para Google Map y luego reemplazar en index.html
 
-Basado en el proyecto de NG-CLASSROOM que a su vez se basa en la tesis de [Zulema Vicente](https://www.facebook.com/zulema.vicente.9).
+Basado en el proyecto de [NG-CLASSROOM](https://github.com/ng-classroom/demo118) que a su vez se basa en la tesis de [Zulema Vicente](https://www.facebook.com/zulema.vicente.9).
 
 El aporte de este proyecto es la actualización a Ionic 3
 
